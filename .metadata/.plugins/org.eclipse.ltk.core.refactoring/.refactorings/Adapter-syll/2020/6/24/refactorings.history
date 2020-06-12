@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move 6 elements to &apos;Adapter/src&apos;&#x0A;- Original project: &apos;Adapter-syll&apos;&#x0A;- Destination element: &apos;Adapter/src&apos;&#x0A;- Original elements:&#x0A;     TaxAdapterDemo.java&#x0A;     Item.java&#x0A;     MyMauritiusTax.java&#x0A;     CalcTax.java&#x0A;     NewMauritiusTax.java&#x0A;     SwedenTax.java&#x0A;- Update references to refactored element" description="Move compilation units" destination="=Adapter/src" element1="/&lt;{TaxAdapterDemo.java" element2="/&lt;{Item.java" element3="/&lt;{MyMauritiusTax.java" element4="/&lt;{CalcTax.java" element5="/&lt;{NewMauritiusTax.java" element6="/&lt;{SwedenTax.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1591904714751" units="6" version="1.0"/>
+</session>

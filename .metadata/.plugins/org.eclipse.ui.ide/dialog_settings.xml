@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="SmartImportWizard">
+		<item key="SmartImportRootWizardPage.STORE_HIDE_ALREADY_OPEN" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_CLOSE_IMPORTED" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
+		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
+		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="/home/siddhant/Desktop/ooadp lab/Bridge-syll-20200611T161338Z-001/Bridge-syll"/>
+			<item value="/home/siddhant/Desktop/ooadp lab/Adapter-syll-20200611T161325Z-001/Adapter-syll"/>
+			<item value="/home/siddhant/Desktop/6thSemIse/OOADP/Finals_LabProgs/FactoryMethod"/>
+			<item value="/home/siddhant/Desktop/6thSemIse/OOADP/Finals_LabProgs/Strategy"/>
+			<item value="/home/siddhant/Desktop/6thSemIse/OOADP/Finals_LabProgs/Adapter"/>
+			<item value="/home/siddhant/Desktop/6thSemIse/OOADP/Finals_LabProgs/Observer"/>
+			<item value="/home/siddhant/Desktop/6thSemIse/OOADP/Finals_LabProgs/Bridge"/>
+			<item value="/home/siddhant/Desktop/6thSemISE/Design Patterns with Java/Bridge"/>
+			<item value="/home/siddhant/Desktop/6thSemISE/Design Patterns with Java/Factory-method"/>
+			<item value="/home/siddhant/Desktop/6thSemISE/Design Patterns with Java/Strategy"/>
+			<item value="/home/siddhant/Desktop/6thSemISE/Design Patterns with Java"/>
+			<item value="/home/siddhant/Desktop/6thSemISE/Design Patterns with Java/Adapter"/>
+		</list>
+	</section>
+	<section name="NewWizardAction">
+		<item key="NewWizardSelectionPage.STORE_SELECTED_ID" value="org.eclipse.jdt.ui.wizards.JavaProjectWizard"/>
+		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
+		</list>
+	</section>
+</section>
